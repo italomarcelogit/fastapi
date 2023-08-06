@@ -17,3 +17,5 @@ Após sua console estar em ambiente virtual (venv), siga os passos abaixo:
 - E por fim, para subir a aplicação web, abra outro console e execute o comando abaixo
     + uvicorn.exe endpoint01_server:app --port=81 --host=0.0.0.0 --reload
     + para testar, basta acessar a URL http://localhost:81 
+
+![ScreenShot](fastapi.png)
